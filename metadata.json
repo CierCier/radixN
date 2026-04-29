@@ -1,0 +1,6 @@
+{
+  "name": "BaseN: Variable Encoder & Decoder",
+  "description": "A high-precision base conversion tool supporting custom alphabets, BigInt math, and both text and numerical encoding modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
